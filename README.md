@@ -70,11 +70,5 @@ Accessibility: Ensure your design system components are accessible and adhere to
   ```
   <link rel="preload" href="/fonts/open-sans.woff2" as="font" type="font/woff2" crossorigin>
   ```
-**Remember:** Building a design system is an iterative process. Start small, prioritize your needs, and continuously refine your system as your product evolves.
-
-**Bonus Tip:** Explore Webflow's Interactions feature to create dynamic and interactive components for your design system, adding an extra layer of sophistication.
-
-By harnessing Webflow's power and these code examples, you can build a robust and flexible design system that fuels consistent, efficient, and delightful user experiences. Go forth and design with confidence!
-
 # Need Help?
 Stuck with custom css code? [Contact us](https://epyc.in/).
